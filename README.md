@@ -1,8 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="AboutYou.png" width="1280" height="640">
-  <source media="(prefers-color-scheme: light)" srcset="AboutYou.png" width="1280" height="640">
-  <img alt="cover photo" src="AboutYou.png" width="1280" height="640">
+  <source media="(prefers-color-scheme: dark)" srcset="AboutYou.png" width="800" height="400">
+  <source media="(prefers-color-scheme: light)" srcset="AboutYou.png" width="800" height="400">
+  <img alt="cover photo" src="AboutYou.png" width="800" height="400">
 </picture>
+
 
 <hr>
 
