@@ -5,7 +5,7 @@
 </picture>
 
 <p>
-  👋 Hi, I’m <b styles="text-color:red;">Edgar!</b>
+  👋 Hi, I’m <b style="color:red;">Edgar!</b>
 </p>
 
    
