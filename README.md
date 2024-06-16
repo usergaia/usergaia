@@ -4,6 +4,8 @@
   <img alt="cover photo" src="coverphoto.png">
 </picture>
 
+Hi, I'm [Your Name] 👋
+
   #👋 Hi, I’m <b style="color:red;">Edgar!</b>
 
 
