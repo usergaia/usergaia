@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="cover-photo" src="https://www.shutterstock.com/image-vector/cute-hand-drawn-seamless-pattern-600nw-2265037099.jpg">
+ <img alt="cover-photo" src="https://c4.wallpaperflare.com/wallpaper/793/5/131/minimalism-digital-art-simple-background-cats-eyes-hd-wallpaper-thumb.jpg">
 </picture>
 
 
