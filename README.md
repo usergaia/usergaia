@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="coverphotolight.png" >
-  <source media="(prefers-color-scheme: light)" srcset="coverphoto.png">
-  <img alt="cover photo" src="coverphoto.png">
+  <source media="(prefers-color-scheme: dark)" srcset="coverphotodark.png" >
+  <source media="(prefers-color-scheme: light)" srcset="coverphotolight.png">
+  <img alt="cover photo" src="coverphotodark.png">
 </picture>
 
 # Hi there, I'm Edgar! 👋
 
-I'm a computer science student and an aspiring software engineer dedicated to creating efficient software solutions and fun interfaces to maximize user experience.
+I'm a computer science student at FEU Institute of Technology and an aspiring software engineer dedicated to creating efficient software solutions and fun interfaces to maximize user experience.
 
 ## About Me
 - 🔭 I’m still exploring GitHub and the features it has to offer.
