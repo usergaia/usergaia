@@ -9,7 +9,8 @@
 I'm a passionate Computer Science student and aspiring software engineer dedicated to creating impactful and efficient software solutions.
 
 ## About Me
-- 🔭 I’m currently working on web design projects and improving my coding skills.
+- 🔭 I’m still exploring GitHub and the features it has to offer.
+- ✨ I'm currently working on web design projects and improving my coding skills.
 - 🌱 I’m currently preparing for ITS and GitHub certifications, and exploring open-source contributions.
 - 📫 How to reach me: [edgartrafaeljr@example.com](mailto:edgartrafaeljr@example.com)
 
