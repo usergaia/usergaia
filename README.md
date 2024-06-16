@@ -6,7 +6,7 @@
 
 # Hi there, I'm Edgar! 👋
 
-I'm a passionate Computer Science student and aspiring software engineer dedicated to creating impactful and efficient software solutions.
+I'm a Computer Science student and an aspiring software engineer dedicated to creating efficient software solutions and fun interfaces to maximize user experience.
 
 ## About Me
 - 🔭 I’m still exploring GitHub and the features it has to offer.
