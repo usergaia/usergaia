@@ -4,7 +4,7 @@
   <img alt="cover photo" src="coverphoto.png">
 </picture>
 <p>
-  👋 Hi, I’m <b>Edgar</b>
+  👋 Hi, I’m <b color="blue">Edgar!</b>
 </p>
 
 <hr>
