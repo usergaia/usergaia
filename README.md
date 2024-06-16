@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="coverphoto.png" >
+  <source media="(prefers-color-scheme: dark)" srcset="coverphotolight.png" >
   <source media="(prefers-color-scheme: light)" srcset="coverphoto.png">
   <img alt="cover photo" src="coverphoto.png">
 </picture>
