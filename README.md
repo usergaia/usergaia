@@ -12,7 +12,7 @@ I'm a passionate Computer Science student and aspiring software engineer dedicat
 - 🔭 I’m still exploring GitHub and the features it has to offer.
 - ✨ I'm currently working on web design projects and improving my coding skills.
 - 🌱 I’m currently preparing for ITS and GitHub certifications, and exploring open-source contributions.
-- 📫 How to reach me: [edgartrafaeljr@example.com](mailto:edgartrafaeljr@example.com)
+- 📫 How to reach me: [edgartrafaeljr@gmail.com](mailto:edgartrafaeljr@gmail.com)
 
 Feel free to connect with me! 😊
 
