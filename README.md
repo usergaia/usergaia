@@ -6,7 +6,7 @@
 
 # Hi there, I'm Edgar! 👋
 
-I'm a computer science student at FEU Institute of Technology and an aspiring software engineer dedicated to creating efficient software solutions and fun interfaces to maximize user experience.
+I'm a computer science student at FEU Institute of Technology and an aspiring software engineer dedicated to creating efficient software solutions and fun interfaces that maximizes user experience.
 
 ## About Me
 - 🔭 I’m still exploring GitHub and the features it has to offer.
