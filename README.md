@@ -3,9 +3,8 @@
   <source media="(prefers-color-scheme: light)" srcset="coverphoto.png">
   <img alt="cover photo" src="coverphoto.png">
 </picture>
-<p>
-  👋 Hi, I’m <b style="color:red;">Edgar!</b>
-</p>
+
+  #👋 Hi, I’m <b style="color:red;">Edgar!</b>
 
 
 <hr>
