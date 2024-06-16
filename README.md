@@ -4,9 +4,11 @@
   <img alt="cover photo" src="coverphoto.png">
 </picture>
 
-Hi, I'm [Your Name] 👋
+<p>
+  👋 Hi, I’m <b styles="text-color:red;">Edgar!</b>
+</p>
 
-  #👋 Hi, I’m <b style="color:red;">Edgar!</b>
+   
 
 
 <hr>
