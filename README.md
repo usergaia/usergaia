@@ -3,12 +3,12 @@
   <source media="(prefers-color-scheme: light)" srcset="coverphoto.png">
   <img alt="cover photo" src="coverphoto.png">
 </picture>
-
+<p>
+  👋 Hi, I’m <tt>Edgar</tt>
+</p>
 
 <hr>
 
-
-- 👋 Hi, I’m @usergaia
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
