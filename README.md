@@ -15,7 +15,6 @@ I'm a passionate Computer Science student and aspiring software engineer dedicat
 
 Feel free to connect with me! 😊
 
-<hr>
 
 
 <!---
