@@ -4,7 +4,7 @@
   <img alt="cover photo" src="coverphotodark.png">
 </picture>
 
-# Hi there, I'm Edgar! 👋
+# Hi,
 
 I'm a computer science student at FEU Institute of Technology and an aspiring software engineer.
 
