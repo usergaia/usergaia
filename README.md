@@ -4,14 +4,9 @@
   <img alt="cover photo" src="coverphotodark.png">
 </picture>
 
-# Hi
-
-I'm a computer science student at FEU Institute of Technology and an aspiring software engineer.
+# Hello stranger
 
 
-- 📫 How to reach me: [edgartrafaeljr@gmail.com](mailto:edgartrafaeljr@gmail.com)
-
-Feel free to connect with me! 😊
 
 
 
