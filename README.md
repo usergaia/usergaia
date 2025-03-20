@@ -4,7 +4,7 @@
   <img alt="cover photo" src="coverphotodark.png">
 </picture>
 
-# Hello stranger
+# Hello, Stranger.
 
 
 
