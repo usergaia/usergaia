@@ -1,7 +1,5 @@
 <h1 align="center">Hello, stranger.</h1>
 
-- 🔭 I’m currently working on [e-Xtract App](https://github.com/benjughmin/extract_app.git)
-
 <!---
 - 🌱 I’m currently learning **JS,TS, Sentimental Analysis**
 
