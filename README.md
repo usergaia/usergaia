@@ -1,5 +1,3 @@
-
-
 <h2 align="center">Hello, stranger.</h2>
 <hr/>
 
