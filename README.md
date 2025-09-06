@@ -1,4 +1,4 @@
-> <h3>Hello, stranger.</h3>
+> <h3>Opensource crackling addict.</h3>
 
 ---
 ## 🌐 Socials:
