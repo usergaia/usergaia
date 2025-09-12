@@ -1,4 +1,4 @@
-> <h3>Opensource crackling addict.</h3>
+> <h3>God I loathe machine learning.</h3>
 
 ---
 ## 🌐 Socials:
