@@ -1,4 +1,10 @@
-> <h3>God I loathe machine learning.</h3>
+
+
+<div align="center">
+  <img src="a.gif" alt="TechStack" />
+  <br>
+  <code>God, I hate machine learning.</code>
+</div>
 
 ---
 
