@@ -3,7 +3,7 @@
 <div align="center">
   <img src="a.gif" alt="TechStack" />
   <br>
-  <code>God, I hate machine learning.</code>
+  <code>Hello.</code>
 </div>
 
 
